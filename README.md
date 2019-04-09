@@ -2,7 +2,7 @@
 
 ### Run with docker:
 ```
-git clone --recursive git@github.com:kocki/FET.git
+git clone --recursive https://github.com/kocki/FET.git
 cd FET
 ```
 Fetch api key from fixer.io and put it into local settings.
