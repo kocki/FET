@@ -14,7 +14,7 @@ docker run -p 8000:8000 -p 8080:8080 fet
 ```
 
 ### Warnings
+* It could take few minutes to install all javascript dependencies.
 * Free fixer.io account services only EUR sell currency.
-It could take few minutes to install all javascript dependencies.
 
 Open browser and go to http://localhost:8080/
