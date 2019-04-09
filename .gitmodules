@@ -1,3 +1,6 @@
 [submodule "fet_client/fet"]
 	path = fet_client/fet
 	url = https://github.com/kocki/fet_client.git
+[submodule "fet_server"]
+	path = fet_server
+	url = https://github.com/kocki/fet_server.git
