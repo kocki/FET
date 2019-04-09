@@ -1,5 +1,6 @@
 # Programming Test - Foreign Exchange Trades
 
+### Run with docker:
 ```
 git clone --recursive git@github.com:kocki/FET.git
 cd FET
@@ -13,4 +14,3 @@ docker run -p 8000:8000 -p 8080:8080 -d fet
 ```
 
 Open browser and go to http://localhost:8080/
-
